@@ -32,7 +32,7 @@ This booklet provides key information about the course provided within the Maste
 The program is delivered externally using Blackboard and Zoom.
 There are also couple of optional for face-to-face activities throughout the program.
 
-Bookmark the online version for quick reference (you will get a pop up to log in to Blackboard if you are not already) or download this document as as `pdf` or `docx`
+Bookmark the online version for quick reference or download this document as `pdf`: [ProgramInformation.pdf](ProgramInformation.pdf).
 
 
 <!--chapter:end:index.rmd-->
@@ -201,7 +201,7 @@ A brief summary of the key steps is provided below.
 ## Joining a Zoom tutorial
 
 <div class="noted">
-<p>If you have signed in correctly (via “Sign in with SSO”), your full name should be displayed as you connect. This is important as it helps communication in the tutorial.</p>
+<p>If you have signed in correctly (via &quot;Sign in with SSO&quot;), your full name should be displayed as you connect. This is important as it helps communication in the tutorial.</p>
 </div>
 
 
@@ -229,7 +229,7 @@ We typically leave participant video off for the tutorials.
 ![](media/image2.png)
 
 <div class="noted">
-<p>We would recommend that you join the tutorial 5–10 minutes before the commencement of the tutorial. This will give you time to be organised &amp; prepared.</p>
+<p>We would recommend that you join the tutorial 5--10 minutes before the commencement of the tutorial. This will give you time to be organised &amp; prepared.</p>
 </div>
 
 
