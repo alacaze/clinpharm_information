@@ -41,7 +41,7 @@ Bookmark the online version for quick reference or download this document as `pd
 
 If you are new to the program this booklet provides information on the key resources that we use within the program and a couple of additional things that are important to know as you start out.
 
-1. All courses in the program are delivered via [Learn.UQ](#uq-learn-blackboard)
+1. All courses in the program are delivered via [Learn.UQ](#uq.learn-blackboard)
 2. Our online tutorials are conducted on [Zoom](#what-is-zoom)
 3. All of the important information about each course is provided in the [course profile](#course-profiles)
 4. The courses in the program and [structured in a similar way](#course-structure)
