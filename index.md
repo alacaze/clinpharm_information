@@ -3,7 +3,7 @@ title: Program Information and Resource Guides
 # author:
 #     - Adam La Caze
 date: |
-    Last updated: 31 July 2020
+    Last updated: 26 March 2021
 bibliography: local.bib
 csl: https://raw.githubusercontent.com/citation-style-language/styles/master/apa.csl
 fontsize: 11pt
@@ -69,7 +69,7 @@ Follow the directions for your client to set up an email account provided by Mic
 | Program questions                                     | E: [pharmacy@enquire.uq.edu.au](mailto:pharmacy@enquire.uq.edu.au); P: 07 3346 1900                                                                   | First port of call for most general queries regarding the program, program changes and administration. Your email is received by professional staff within the School and forwarded to the person who can help. |
 | Course coordinator                                         | See your course Blackboard site                                                                                                                       | Most general course questions should be posted to the course Discussion Board. Contact the course coordinator for specific course-related questions                                                             |
 | UQ Myadvisor (applying for an extension on an assignment) | [Applying for an extension to an assessment](https://my.uq.edu.au/information-and-services/manage-my-program/exams-and-assessment/applying-extension) | Find details regarding the process for applying for an extension of an assessment at the link (also includes the link to submit an application)                                                                                                                                                                                                                |
-| Program Coordinator                                        | Adam La Caze, E: [a.lacaze@uq.edu.au](mailto:a.lacaze@uq.edu.au)                                                                                      | Second port of call for program-related questions                                                                                                                                                          |
+| Program Coordinator                                        | Dr Judith Coombes, E: [judith@pharmacy.uq.edu.au](mailto:judith@pharmacy.uq.edu.au)                                                                                      | Second port of call for program-related questions                                                                                                                                                          |
 
 <!--chapter:end:01-overview.rmd-->
 
@@ -201,7 +201,7 @@ A brief summary of the key steps is provided below.
 ## Joining a Zoom tutorial
 
 <div class="noted">
-<p>If you have signed in correctly (via &quot;Sign in with SSO&quot;), your full name should be displayed as you connect. This is important as it helps communication in the tutorial.</p>
+<p>If you have signed in correctly (via “Sign in with SSO”), your full name should be displayed as you connect. This is important as it helps communication in the tutorial.</p>
 </div>
 
 
@@ -229,7 +229,7 @@ We typically leave participant video off for the tutorials.
 ![](media/image2.png)
 
 <div class="noted">
-<p>We would recommend that you join the tutorial 5--10 minutes before the commencement of the tutorial. This will give you time to be organised &amp; prepared.</p>
+<p>We would recommend that you join the tutorial 5–10 minutes before the commencement of the tutorial. This will give you time to be organised &amp; prepared.</p>
 </div>
 
 
